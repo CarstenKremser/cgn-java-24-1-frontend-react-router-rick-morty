@@ -7,7 +7,7 @@ type CharacterCardProps = {
 export default function CharacterCard(props: CharacterCardProps) {
 
     return (
-        <div>
+        <div className="card character-card">
             <p>
                 {props.character.name}
             </p>

@@ -34,7 +34,11 @@
 }
 
 .card {
-  padding: 2em;
+  background-color: white;
+  color: black;
+  margin: 5px;
+  padding: 5px;
+  border-radius: 10px;
 }
 
 .read-the-docs {
